@@ -1,0 +1,7 @@
+## Interface: 100105
+## Title: SlashEcho
+## Notes: Use /echo to type yourself a whisper to yourself
+## Author: Keyboardturner
+## Version: 0.0.1
+
+SlashEcho.lua
